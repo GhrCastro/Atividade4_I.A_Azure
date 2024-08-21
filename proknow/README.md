@@ -1,4 +1,4 @@
-NTRODUÇÃO
+INTRODUÇÃO
 
 O propósito deste projeto é empregar a tecnologia de Inteligência Artificial denominada "Pesquisa Visual Computacional", oferecida pela plataforma Azure, para identificar indivíduos em imagens e apresentar suas respectivas localizações.
 
